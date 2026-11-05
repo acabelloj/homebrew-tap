@@ -1,6 +1,6 @@
 cask "desktop-pet" do
-  version "1.0.0"
-  sha256 "6fb6d6dba1975af8356a084fa5d4e748ddb6bd1f16c3facd3c508d28661f38f1"
+  version "1.1.0"
+  sha256 "8e72b3abf3df0b6ee1eab0e6e4ca9b034fb59a4fe96864cc0fbd6bb3989ddbec"
 
   url "https://github.com/acabelloj/desktop-pet-releases/releases/download/v#{version}/DesktopPet"
   name "Desktop Pet"
